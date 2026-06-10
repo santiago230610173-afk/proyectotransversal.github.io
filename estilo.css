@@ -89,7 +89,7 @@ nav a:hover {
 
 section.contenido-principal {
     flex: 3;
-    background-image: url('fondo-section.jpg');
+    background-image: url('fondo-section.png');
     background-size: cover;
     background-attachment: fixed;
     background-color: rgba(255, 255, 255, 0.85);
